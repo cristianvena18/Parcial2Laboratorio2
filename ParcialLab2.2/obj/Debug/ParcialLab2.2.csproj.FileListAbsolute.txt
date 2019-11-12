@@ -1,0 +1,6 @@
+C:\Users\crist\source\repos\ParcialLab2.2\ParcialLab2.2\bin\Debug\ParcialLab2.2.exe.config
+C:\Users\crist\source\repos\ParcialLab2.2\ParcialLab2.2\bin\Debug\ParcialLab2.2.exe
+C:\Users\crist\source\repos\ParcialLab2.2\ParcialLab2.2\bin\Debug\ParcialLab2.2.pdb
+C:\Users\crist\source\repos\ParcialLab2.2\ParcialLab2.2\obj\Debug\ParcialLab2.2.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\ParcialLab2.2\ParcialLab2.2\obj\Debug\ParcialLab2.2.exe
+C:\Users\crist\source\repos\ParcialLab2.2\ParcialLab2.2\obj\Debug\ParcialLab2.2.pdb
